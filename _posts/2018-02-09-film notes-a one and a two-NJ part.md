@@ -40,4 +40,7 @@ comments: true
 
     “做的都不是自己喜欢的事，怎么会快乐呢？”简南骏这样对生意合伙人说
 
-![douban](https://img3.doubanio.com/view/photo/raw/public/p835646102.jpg)
+<figure>
+    <a href="https://farm5.staticflickr.com/4616/39270303655_970bc7e59d_b.jpg"><img src="https://farm5.staticflickr.com/4616/39270303655_970bc7e59d_b.jpg"></a>
+    <figcaption><a href="https://www.flickr.com/photos/155396026@N03/39270303655/in/dateposted-public/" title="简南俊和大田在居酒屋畅谈">简南俊和大田在居酒屋畅谈</a>.</figcaption>
+</figure>
