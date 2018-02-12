@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[Film Notes]《一一/A one and a two》简南俊篇/N.J. Part "
+title: "[Film Notes]《一一》简南俊篇"
 date: 2017-01-02
-excerpt: "一部关于家庭和人生的电影/a film about family and life."
+excerpt: "一部关于家庭和人生的电影"
 tags: [film notes]
 comments: true
 ---
