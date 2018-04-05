@@ -7,7 +7,7 @@ tags: [book notes]
 comments: true
 ---
 
-Talking about Japanese detective novels, it's always inevitable to mention author called Tarou Hirai(平井太郎). Better known by the pseudonym "Edogawa Ranpo(江户川乱步)".
+Talking about Japanese detective novels, it's always inevitable to mention an author called Tarou Hirai(平井太郎). Better known by the pseudonym "Edogawa Ranpo(江户川乱步)".
 
 Those who ever watched a cartoon named "Detective Conan" must have a familiar feeling about this name. In the first episode of this cartoon, when Mouri Ran asked about Kudou Shinichi's name(Kudou Shinichi already became an elementary student because of the APTX-4869), Shinichi was lost his tongue at first and moved slowly toward a bookshelf nearby. Then he noticed two books on that bookshelf, one was "Adventure of Sherlock Holmes" written by Arthur Conan Doyle and another was the novels collection of Edogawa Ranpo. There was a flash of thought in Shinichi's brain, "My name is Edogawa Conan." he said. That's the name accompanies me with my whole childhood. Of course, it isn't the only place where mentions "Edogawa Ranpo", the prototype of "Mouri Kogorou", who is a half-bucket detective usually targeted by Conan's anesthetic needle, is a famous character named "Akechi Kogorou". Akechi Kogorou is created by Ranpo, and also is the first detective role in the history of Japaneses detective literature. In addition, the prototype of "Junior Detective League" and "Kaitou Kiddo" in cartoon "Detective Conan" are all from Ranpo's novels.
 
